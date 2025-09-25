@@ -1,14 +1,8 @@
 # Reports
 
-This repository collects my graduate-level research and analysis projects in Information Systems and Business Analytics.  
+Graduate-level research and analysis projects in Information Systems and Business Analytics.
 
----
+## Available Reports  
 
-## Defense & Emerging Technologies  
-
-- [Strategic Trends in DoD SBIR Funding (2015–2025)](DoDSBIRFunding_Perez.pdf)  
-  An empirical analysis of Department of Defense Small Business Innovation Research (SBIR) funding across 2015–2025.
-  The study applies descriptive statistics, t-tests, ANOVA, time series analysis,
-  and regression forecasting to evaluate funding across domains such as artificial intelligence, cybersecurity,
-  aerospace, and infrastructure. Results show how the DoD balances broad experimentation
-  with concentrated investment in high-impact areas, offering insight into future defense innovation priorities.
+[Strategic Trends in DoD SBIR Funding (2015–2025)](DoDSBIRFunding_Perez.pdf)  
+An empirical analysis of Department of Defense Small Business Innovation Research (SBIR) funding from 2015–2025. Methods include descriptive statistics, t-tests, ANOVA, time series analysis, and regression forecasting. Findings highlight how the DoD balances broad experimentation with deeper investments in high-impact areas such as AI, cybersecurity, and aerospace.
