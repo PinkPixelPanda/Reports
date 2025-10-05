@@ -15,3 +15,7 @@ An analysis of ride-sharing data focusing on the distribution of start times and
 
 [Predictive Analytics in Retail: A CRISP-DM Action Plan](PredictiveAnalyticsRetailPlan1_Perez.pdf)  
 A structured action plan applying the CRISP-DM framework to predictive analytics in retail. The report outlines how data scientists, engineers, analysts, and managers collaborate to turn sales, loyalty, and digital storefront data into actionable forecasts. It emphasizes business understanding, data preparation, modeling, evaluation, and deployment while addressing bias, transparency, and customer trust. The plan shows how predictive analytics improves forecasting, strengthens inventory control, and enhances customer experience.
+
+[Governance, Data, and Decision Support in the Digital Evolution of Health Care](https://github.com/PinkPixelPanda/Reports/blob/main/DigitalTransformationHealthcare_Perez.pdf)  
+A brief analysis of how governance, data integration, and artificial intelligence shape digital transformation in modern healthcare systems. The report examines how predictive modeling, interoperability, and Patient-Reported Outcome Measures (PROMs) enhance clinical decision-making and support patient-centered care. It discusses the ethical and leadership frameworks required to align data analytics, AI, and institutional accountability within value-based healthcare.
+
